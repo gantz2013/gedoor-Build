@@ -26,11 +26,11 @@ on:
       app_suffix: 
         description: 'Legado app suffix'      
         required: true 
-        default: 'A'
+        default: 'B'
       app_launch_name: 
         description: 'Legado app launch name'      
         required: true 
-        default: '阅读.A'
+        default: '阅读.B'
       webdav_upload: 
         description: 'Webdav upload when build apk finish'      
         required: true
